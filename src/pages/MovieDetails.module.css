@@ -1,0 +1,21 @@
+.detailsContainer{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    padding: 2rem;
+    font-size: 1.16rem;
+}
+
+.column{
+    max-width: 400px;
+    width: 80%;
+    margin: 20px;
+    height: auto;
+    height: 80%;
+}
+.img{
+    border-radius: .7rem;
+}
+.title{
+    margin-top: 0;
+}

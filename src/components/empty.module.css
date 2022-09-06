@@ -1,0 +1,17 @@
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 15rem;
+    font-size: 2.5rem;
+    text-shadow:
+		0 0 5px rgb(255, 0, 93),
+		0 0 10px rgb(255, 0, 111),
+		0 0 20px rgb(255, 0, 162),
+		0 0 40px rgb(127, 38, 75),
+		0 0 80px rgb(127, 38, 71),
+		0 0 90px rgb(127, 38, 51),
+		0 0 100px rgb(127, 38, 42),
+		0 0 140px rgb(127, 38, 51),
+		0 0 180px rgb(127, 38, 59);
+}
